@@ -19,9 +19,9 @@ SQLite for data storage
 Beautiful Soup (via pandas read_html) for web scraping
 
 **Database Schema**
-Companies: Stores unique company information (ticker, name, CIK)
-Holdings: Tracks yearly index composition
-Historical Changes: Records all additions and removals with dates
+1.Companies: Stores unique company information (ticker, name, CIK)
+2.Holdings: Tracks yearly index composition
+3.Historical Changes: Records all additions and removals with dates
 
 **Use Cases**
 Track index composition changes over time
