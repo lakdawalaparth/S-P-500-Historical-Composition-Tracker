@@ -1,4 +1,4 @@
-S&P 500 Historical Composition Tracker
+**S&P 500 Historical Composition Tracker**
 
 **Description:**
 A Python-based tool that tracks and analyzes historical changes in S&P 500 index composition. This project scrapes Wikipedia data to maintain a comprehensive database of S&P 500 constituent changes from 2008 to present, including company additions, removals, and yearly snapshots of index composition.
